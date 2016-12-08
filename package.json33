@@ -1,0 +1,28 @@
+{
+  "name": "node-socket-proxy",
+  "version": "1.0.0",
+  "description": "node.js实现的sockt连接转发",
+  "main": "proxy.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/imuse2012/node-socket-proxy.git"
+  },
+  "keywords": [
+    "node.js",
+    "socket",
+    "proxy",
+    "tcp"
+  ],
+  "author": "imuse@qq.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/imuse2012/node-socket-proxy/issues"
+  },
+  "homepage": "https://github.com/imuse2012/node-socket-proxy#readme"
+}
